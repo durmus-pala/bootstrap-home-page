@@ -1,0 +1,39 @@
+#my-nav{
+    position:sticky;
+    top:0;
+    padding: 0.625rem;
+}
+#clarusway {
+    background-color: rgb(128, 0, 128);
+    
+}
+
+#carouselExampleCaptions{
+    text-align: center;
+}
+img{
+    width: 25rem;
+    
+}
+#carouselExampleCaptions{
+    width: 18.75rem;
+    margin: auto;
+}
+
+
+.carousel-control-prev-icon{
+    background-color: black;
+}
+
+.carousel-control-next-icon{
+    background-color:black;
+}
+
+#home{
+    padding: 6.25rem;
+    padding-top: 12.5rem;
+}
+
+#about{
+   padding: 18.75rem 6.25rem;
+}
